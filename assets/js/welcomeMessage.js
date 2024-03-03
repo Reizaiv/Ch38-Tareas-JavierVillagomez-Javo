@@ -16,6 +16,7 @@ function changeWelcomeName() {
 
 function getName() {
     const nombre = prompt(`¿Cuál es tu nombre?`);    
+    return nombre;
 }
 
 welcomeMessage();
