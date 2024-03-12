@@ -19,4 +19,4 @@ function getName() {
     return nombre;
 }
 
-welcomeMessage();
+//welcomeMessage();
